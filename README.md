@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on WebDev<br>🤝 I’m looking for help with different Frameworks<br>🌱 I’m currently learning Cybersec, DSA <br>⚡ Fun fact Coffee turns idea into code I’m looking to collaborate on WebDev<br>
+👯 I’m looking to collaborate on WebDev<br>🤝 I’m looking for help with different Frameworks<br>🌱 I’m currently learning Cybersec, DSA <br>⚡ Fun fact Coffee turns idea into code<br>
 
 [![An image of @nightamber3301's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nightamber3301)](https://holopin.io/@nightamber3301)
 # 💻 Tech Stack:
